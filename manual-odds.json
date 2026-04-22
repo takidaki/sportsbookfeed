@@ -1,0 +1,23 @@
+{
+  "updatedAt": "2026-04-03T06:45:19.642Z",
+  "selections": {
+    "mkt:ev:p4578:1626982275:total_goals:1_75::over": {
+      "marketId": "mkt:ev:p4578:1626982275:total_goals:1_75",
+      "selectionId": "over",
+      "odds": 1.85,
+      "trader": "local-trader",
+      "reason": "inline market rebalance",
+      "mode": "market_reprice",
+      "updatedAt": "2026-04-03T06:45:19.642Z"
+    },
+    "mkt:ev:p4578:1626982275:total_goals:1_75::under": {
+      "marketId": "mkt:ev:p4578:1626982275:total_goals:1_75",
+      "selectionId": "under",
+      "odds": 2.176,
+      "trader": "local-trader",
+      "reason": "inline market rebalance",
+      "mode": "market_reprice",
+      "updatedAt": "2026-04-03T06:45:19.642Z"
+    }
+  }
+}
